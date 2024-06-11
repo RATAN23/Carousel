@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# accordion
+# carousel
 React Machine coding question
 
 Run the following steps:
