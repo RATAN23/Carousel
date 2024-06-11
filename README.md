@@ -4,7 +4,7 @@ React Machine coding question
 
 Run the following steps:
 
-cd accordion
+cd carousel
 
 npm install i
 
